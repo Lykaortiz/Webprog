@@ -1,0 +1,35 @@
+*
+body{
+	border-bottom-style: 50px;
+	border-color: white;
+	background-image: url(flowers.jpg);
+
+}	
+.bg-image{
+	background-image: url("img.jpg");
+	filter: blur(4px);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: auto;
+}
+
+h1{
+	color: black;
+	font-size: 50px;
+}
+
+h5{
+	color: black;
+}
+h4{
+	color: black;
+	background-color: skyblue;
+	background-size: 20px;
+}
+p{
+	color: black;
+}
+table{
+	background-image: url(flowers.jpg);
+	background-size: cover;
+}
